@@ -1,2 +1,4 @@
 2023-11-23 21:13:49,352 - __main__ - INFO - Token value: Token not available!
 2023-11-23 21:13:51,816 - __main__ - INFO - Weather in Berlin: 9.88
+2023-11-25 17:37:50,287 - __main__ - INFO - Token value: 1234
+2023-11-25 17:37:50,777 - __main__ - INFO - Weather in Berlin: 1.87
