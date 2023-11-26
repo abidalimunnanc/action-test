@@ -2,8 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # At every 10 hours
-
+    - cron: '45 12 * 12 5' # At 12.45 on every friday on december
 jobs:
   build:
     runs-on: ubuntu-latest
